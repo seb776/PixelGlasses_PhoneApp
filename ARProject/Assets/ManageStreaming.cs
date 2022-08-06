@@ -16,7 +16,7 @@ public class ManageStreaming : MonoBehaviour
     BinaryWriter theWriter;
     BinaryReader theReader;
 
-    String Host = "192.168.43.141";
+    String Host = "192.168.56.101";//192.168.43.141";
     Int32 Port = 4148;
     byte[] imageBuff;
     Texture2D texture;
